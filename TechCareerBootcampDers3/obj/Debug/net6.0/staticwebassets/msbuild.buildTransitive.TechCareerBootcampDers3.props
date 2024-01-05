@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TechCareerBootcampDers3.props" />
+</Project>
